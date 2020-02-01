@@ -1,0 +1,19 @@
+{
+  "name": "service-worker-web",
+  "version": "1.0.0",
+  "description": "Sandbox test bed for testing service workers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsappet/service-worker-web.git"
+  },
+  "author": "Doug Sappet",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dsappet/service-worker-web/issues"
+  },
+  "homepage": "https://github.com/dsappet/service-worker-web#readme"
+}
